@@ -1,6 +1,6 @@
 **What does this do?**
 
-This is a program that uses open source Optical Character Recognition (OCR) to convert a PDF to text (.txt), which is then translated into English.
+This is a program that uses Optical Character Recognition (OCR) to convert a PDF to text (.txt), which is then translated into English.
 
 **How does it work?**
 

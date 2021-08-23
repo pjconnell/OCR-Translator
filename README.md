@@ -18,7 +18,7 @@ The following steps will walk you through that set-up process.
 
 *Step 3* - Save the .xlsx file "Language Key" as a google sheet in the same folder. When you are done, the folder should look like this:
 
-![alt text](https://github.com/pjconnell/OCR-Translator/blob/master/file_setup.PNG)
+![alt text](https://github.com/pjconnell/OCR-Translator/blob/main/file_setup.png)
 
 *Step 4* - Next, save the PDF file(s) you want to translate in the "Input PDFs" folder.
 

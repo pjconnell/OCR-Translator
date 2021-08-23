@@ -8,7 +8,7 @@ The OCR portion of this program utilizes pytesseract (more information at: https
 
 **How do I use it?**
 
-First, it's important to note that this program was built to work on Google Drive (it was developed as part of a collaborative research project that required extensive translation of foreign academic papers). The colab notebook will look for the "input PDF" - i.e., document you want translated - on Google Drive and it will generate and save an English translation .txt file to Google Drive. Accordingly, the most important initial steps are to get the appropriate folders set up in Google drive so that the notebook can access / generate the files that it needs.
+First, it's important to note that this program was built to work on Google Drive (it was developed as part of a collaborative research project that required extensive translation of foreign academic papers). The colab notebook will look for the "input PDF" - i.e., document you want translated - on Google Drive and it will generate and save an English translation .txt file to Google Drive. Accordingly, the most important initial steps are to set up the appropriate folders  in Google drive so that the notebook can access / generate the files that it needs.
 
 The following steps will walk you through that set-up process.
 

@@ -14,7 +14,7 @@ The following steps will walk you through that set-up process.
 
 *Step 1* - Open the Google Colab notebook and save it to your Google Drive. I suggest putting it in a folder titled "Foreign Text OCR", or something similar, so you can keep the input/output files all in one place.
 
-*Step 2* - Create two new folders in the same file where you saved the Colab notebook. one should be titled "Input PDFs" and the other "Output TXTs".
+*Step 2* - Create two new folders in the same file where you saved the Colab notebook. One should be titled "Input PDFs" and the other "Output TXTs".
 
 *Step 3* - Save the .xlsx file "Language Key" as a google sheet in the same folder. When you are done, the folder should look like this:
 
